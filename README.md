@@ -1,16 +1,10 @@
 # quiz_app_test
 
-A new Flutter project.
+My first Flutter project.
+`Flutter` 와 `Django`를 사용하여 풀스택 APP 구현.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter의 MediaQuery로 반응형 UI 구성
+* http, Swiper, AutoSizeText 등 Flutter 패키지 사용
+* Flutter와 API 서버 연동
+* 간단하게 Django Rest Framework로 API 서버 생성
+* Django 프로젝트를 Heroku에 배포
