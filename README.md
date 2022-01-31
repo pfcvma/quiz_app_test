@@ -1,4 +1,4 @@
-# quiz_app_test
+# quiz_app
 
 My first Flutter project.
 `Flutter` 와 `Django`를 사용하여 풀스택 APP 구현.
